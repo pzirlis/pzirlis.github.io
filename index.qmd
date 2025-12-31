@@ -1,0 +1,28 @@
+---
+title: "Paulo's Data Science Portfolio"
+about:
+  template: jolla
+  image: profile-picture.jpg # Optional: add a photo to your repo
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/yourusername
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yourusername
+---
+
+Welcome to my portfolio! I am a data scientist currently exploring the 
+intersections of Medical Imaging and Deep Learning.
+
+## Projects
+
+### 🧠 [Brain Tumor Classification (Python)](https://github.com/yourusername/Deep_Learning_Project)
+A comparative analysis of CNNs, ResNets, and Vision Transformers using MRI data.
+
+### 📊 [Exploratory Data Analysis (R)](https://yourusername.github.io/r-project-repo/)
+An analysis of interesting datasets using Quarto and the Tidyverse.
+
+---
+
+*Built with [Quarto](https://quarto.org)*
