@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paulo’s Data Science Portfolio",
+    "section": "",
+    "text": "Welcome to my portfolio! I am a data scientist currently exploring the intersections of Medical Imaging and Deep Learning."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Paulo’s Data Science Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\n🧠 Brain Tumor Classification (Python)\nA comparative analysis of CNNs, ResNets, and Vision Transformers using MRI data.\n\n\n📊 Exploratory Data Analysis (R)\nAn analysis of interesting datasets using Quarto and the Tidyverse.\n\nBuilt with Quarto"
+  }
+]
