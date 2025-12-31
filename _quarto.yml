@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs # This is the "magic" folder for GitHub Pages
+
+website:
+  title: "Paulo's Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
