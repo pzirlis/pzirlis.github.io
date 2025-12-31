@@ -13,15 +13,12 @@ about:
 ---
 
 Welcome to my portfolio! I am a data scientist currently exploring the 
-intersections of Medical Imaging and Deep Learning.
+intersections of Psychology and Machine Learning.
 
 ## Projects
 
-### 🧠 [Brain Tumor Classification (Python)](https://github.com/yourusername/Deep_Learning_Project)
+### 🧠 [Brain Tumor Classification (Python)](https://github.com/pzirlis/Deep_Learning_Project)
 A comparative analysis of CNNs, ResNets, and Vision Transformers using MRI data.
-
-### 📊 [Exploratory Data Analysis (R)](https://yourusername.github.io/r-project-repo/)
-An analysis of interesting datasets using Quarto and the Tidyverse.
 
 ---
 
