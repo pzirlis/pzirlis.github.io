@@ -6,10 +6,10 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/yourusername
+      href: https://github.com/pzirlis
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/yourusername
+      href: https://www.linkedin.com/in/paulo-zirlis/
 ---
 
 Welcome to my portfolio! I am a data scientist currently exploring the 
